@@ -19,6 +19,6 @@
 
 Our "factory" is organized by product line (SaaS, Social, etc.). Each line has a public `Base` repo (for the community) and a private `Pro` repo (for customers).
 
-  * [expokits/expokit-saas](https://github.com/expokits/expokit-saas): **(Start Here)** Our flagship SaaS starter. Contains all free, open-source `Base` stacks (Supabase, Drizzle, Clerk...).
+  * [expokits/expokit-saas](https://github.com/expokits/expokit-saas): (Coming Soon) Our flagship SaaS starter. Contains all free, open-source `Base` stacks (Supabase, Drizzle, Clerk...).
   * [expokits/expokit-social](https://github.com/expokits/expokit-social): (Coming Soon) The open-core starter for social, chat, and community apps.
   * [expokits/expokit-docs](https://github.com/expokits/expokit-docs): (Coming Soon) Official documentation for all `expokits` starters and Pro modules.
